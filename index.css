@@ -1,0 +1,57 @@
+* {
+  margin: 0px;
+  padding: 3px;
+}
+body {
+  background: url(bg1.jpg) center;
+}
+.container {
+  color: white;
+  position: relative;
+  width: 45%;
+  top: 15rem;
+  left: 28%;
+}
+.container h1 {
+  font-size: 3rem;
+  padding: 13px;
+  text-decoration: underline yellow;
+}
+.box input {
+  background: none;
+  width: 75%;
+  outline: none;
+  border: none;
+  padding: 9px 18px;
+  margin: 23px;
+  border-radius: 10px;
+  position: relative;
+  left: 5%;
+  height: 2rem;
+  color: wheat;
+  font-family: algerian;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+button {
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+  width: 25%;
+  margin: 3rem 0;
+  padding: 10.7px;
+  font-size: 28px;
+  background: none;
+  border: 2px solid black;
+  border-radius: 1rem;
+  /* background-color: purple; */
+  color: white;
+  position: relative;
+}
+.box i {
+  font-size: 40px;
+  border-bottom: 2px solid yellow;
+  margin: 3px 3px;
+  padding: 3px 3px;
+}
